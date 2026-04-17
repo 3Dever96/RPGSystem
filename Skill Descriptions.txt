@@ -1,0 +1,75 @@
+Base Skills
+	Block: Block incoming attacks from the front.
+		Controls: Hold B
+
+	Sense: Detect nearby treasures and secrets.
+		Controls: N/A
+
+	Warp: Return to the last safe location visited.
+		Controls: Hold R and press A
+
+	MP Regen: Restore Magic Power over time.
+		Controls: N/A
+
+	Surge: Charge up and throw a magic sphere.  The sphere does damage while touching enemies.  Charging the sphere continually costs MP.
+		Controls: Hold and Release R
+
+	Nullify: When afflicted by negative status effects, this skill will periodically attempt to remove the affect.
+		Controls: N/A
+
+	Crouch: Crouch down.  While crouched, user can pass through lower walkways and can better sneak around enemies.
+		Controls: Hold LZ
+
+	SP Regen: Restore Stamina Power over time.
+		Controls: N/A
+
+	Sprint: Increase movement speed at the cost of SP.
+		Controls: Hold RZ
+
+	Scan: Reveal the HP of targeted enemies.
+		Controls: N/A
+
+	Attack: Perform a melee attack combo with the user's weapon.
+		Controls: Press X repeatedly to chain combo moves
+
+	HP Regen: Restore Health Power over time.
+		Controls: N/A
+
+Tier 1:
+	Reflect: Adds the ability to reflect projectile attacks using the Block skill.
+		Controls: N/A
+
+	Weapon Bless: Infuse the user's weapon with magic energy to temporarily raise the attack power.
+		Controls: Hold R and Press X
+
+	Air Walk: Delays the effect of gravity and maintain jumping capabilities for a short time after walking off a ledge.
+		Controls: N/A
+
+	Magic Satellite: Summon three magic orbs that rotate around the user, protecting from damage and dealing damage to enemies upon contact.
+		Controls: Hold R and Press B
+
+	Vortex: Gives the Surge skill the effect of drawing enemies towards it.
+		Controls: N/A
+
+	Cloak: Temporarily makes the user invisible and undetectable by enemies.
+		Controls: Hold LZ and Press R
+
+	Loot Magnet: Draw dropped items toward the user.
+		Controls: N/A
+
+	Sneak Attack: Zip between enemies dealing little damage.  The user is invulnerable during this technique, but each usage consumes SP.
+		Controls: Hold LZ and Press X
+
+	Quick Engage: If the user is out of attack range when engaging enemies, the user will toward the targeted enemy.
+		Controls: N/A
+
+	Double Jump: The user can jump while in mid air.
+		Controls: Press A while airborne.
+
+	Intimidate: As the user continues to deal damage to enemies, the enemies become nervous and eventually flee the battle.
+		Controls: N/A
+
+	Reversal: The user can flip around their opponent to attack from behind.
+		Controls: Hold B and Press A
+
+Tier 2
